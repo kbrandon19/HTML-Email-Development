@@ -16,14 +16,14 @@ Here is the link to Coffee Toast https://kbrandon19.github.io/CoffeeToast/
 ## Mr Debonair Fox
 
 [Repository Link](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Debonair%20Fox%20Newsletter)
-![](/screenshots/MDFv3.png)
+![](/Screenshots/MDFv3.png)
 
 ## HBO Max
 
 [Repository Link]()
-![](/screenshots/HBO.png)
+![](/Screenshots/HBO.png)
 
 ## Burrow
 
 [Repository Link]()
-![](/screenshots/Burrow.png)
+![](/Screenshots/Burrow.png)
