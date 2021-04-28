@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+table {
+    border-spacing: 0;
+}
+
+
+.wrapper {
+    width: 100%;
+    table-layout: fixed;
+    padding-bottom: 40px;
+    background-color: #fff;
+}
+
+.main {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    background-color: #fff;
+    border-spacing: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    font-size:30px;
+    color: #f7eeef;
+}
+
+.shop-btn{
+    width:300px;
+    height:65px;
+    background-color: #f7eeef;
+    display: inline-block;
+    border-radius:5px;
+    text-align:center;
+    vertical-align: middle;
+    letter-spacing: 1.54px;
+    line-height: 65px;
+    text-transform: uppercase;
+}
+
+.main-txt{
+    color:#f7eeef;
+    font-size:18px;
+    line-height: 26px;
+}

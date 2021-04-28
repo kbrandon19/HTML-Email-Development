@@ -10,16 +10,16 @@ Here is the link to Coffee Toast https://kbrandon19.github.io/CoffeeToast/
 
 ## Coffee Toast
 
-![Repository Link](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Coffee%20Toast%20Newsletter)
+[Repository Link](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Coffee%20Toast%20Newsletter)
 
 ## Mr Debonair Fox
 
-![Repository Link](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Debonair%20Fox%20Newsletter)
+[Repository Link](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Debonair%20Fox%20Newsletter)
 
 ## HBO Max
 
-![Repository Link]()
+[Repository Link]()
 
 ## Burrow
 
-![Repository Link]()
+[Repository Link]()
