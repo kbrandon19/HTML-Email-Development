@@ -5,8 +5,8 @@ The images used in the projects are either from my photography collection, Unspl
 
 - [Mr Debonair Fox](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Debonair%20Fox%20Newsletter)
 
-- [HBO](#hbo-max)
+- [HBO]()
 
 - [Coffee Toast](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Coffee%20Toast%20Newsletter)
 
-- [Burrow](#burrow)
+- [Burrow]()
