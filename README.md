@@ -1,29 +1,14 @@
 # HTML-Email-Development
 
-These are development project used to showcase my current skillset as an Email Developer. The images used in the projects are either from my photography collection, Unsplash or from an actual email I recieved. 
+These are development project used to showcase my current skillset as an Email Developer. 
+The images used in the projects are either from my photography collection, Unsplash or from an actual email I recieved. 
 
-These projects are ongoing unless otherwise stated.
+- [Mr Debonair Fox](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Debonair%20Fox%20Newsletter)
 
-Here is the link to Coffee Toast https://kbrandon19.github.io/CoffeeToast/
+- [Coffee Toast](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Coffee%20Toast%20Newsletter)
+
+- [HBO]()
+
+- [Burrow]()
 
 
-
-## Coffee Toast
-
-[Repository Link](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Coffee%20Toast%20Newsletter)
-![](/screenshots/CoffeeToast.png)
-
-## Mr Debonair Fox
-
-[Repository Link](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Debonair%20Fox%20Newsletter)
-![](/Screenshots/MDFv3.png)
-
-## HBO Max
-
-[Repository Link]()
-![](/Screenshots/HBO.png)
-
-## Burrow
-
-[Repository Link]()
-![](/Screenshots/Burrow.png)
