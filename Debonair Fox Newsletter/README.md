@@ -1,6 +1,6 @@
-This Email made using HTML & CSS.
+## Mr Deboanir Fox Newsletter
 
-The images used are for showcasing only and not for commercial use. 
-![](./MDFv1.png)
-![](./MDFv2.png)
+As a freelancer I find it important to present myself to clients the best way possible. I thought that sending custom emails versus a text creates a dynamic relationship between the brand and client. 
+
+
 ![](./MDFv3.png)
