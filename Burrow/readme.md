@@ -1,1 +1,1 @@
-![](/assets/Burrow.png)
+![](./assets/Burrow.png)

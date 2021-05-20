@@ -1,1 +1,1 @@
-![](/CoffeeToast.png)
+![](./CoffeeToast.png)

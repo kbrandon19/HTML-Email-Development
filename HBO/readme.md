@@ -1,1 +1,1 @@
-![](/images/HBO.png)
+![](./images/HBO.png)
