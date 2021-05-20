@@ -7,8 +7,8 @@ The images used in the projects are either from my photography collection, Unspl
 
 - [Coffee Toast](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Coffee%20Toast%20Newsletter)
 
-- [HBO]()
+- [HBO](https://github.com/kbrandon19/HTML-Email-Development/tree/main/HBO)
 
-- [Burrow]()
+- [Burrow](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Burrow)
 
 
