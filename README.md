@@ -9,6 +9,6 @@
 
 - [Burrow](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Burrow)
 
-- [Sommsation Test Emails](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Sommsation)
+- [Sommsation Concept Emails](https://github.com/kbrandon19/HTML-Email-Development/tree/main/Sommsation)
 
 
